@@ -21,14 +21,6 @@ It stores the data in a two-dimensional array and calculates yearly and monthly 
 - Calculate the average temperature of each year
 - Calculate the monthly average temperature for three years
 
-## Code Structure
-
-```text
-04_Two_Dimensional_Array
-├── README.md
-└── two_dimensional_array.c
-```
-
 ## Key Concepts
 
 ### 1. Two-Dimensional Array
